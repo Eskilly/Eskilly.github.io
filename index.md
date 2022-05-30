@@ -13,7 +13,9 @@ import tkinter as tk
 ```
 ### 数学公式
 
-$$ L = \frac{1}{2} \sum_i \vert {pred}_i - {label}_i \vert^2 $$
+$$
+L = \frac{1}{2} \sum_i \vert {pred}_i - {label}_i \vert^2
+$$
 
 ---
 ![linux](./favicon.ico)
