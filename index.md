@@ -1,4 +1,4 @@
-# 小白测试 :joy:
+# 小白测试 &#x1F554;
 
 ### [*一个钢琴键盘*](https://github.com/Eskilly/Eskilly.github.io/tree/main/pianoputer)
 ```
@@ -12,5 +12,8 @@ import pygame
 import tkinter as tk
 ```
 ### 数学公式
+
 $$ L = \frac{1}{2} \sum_i \vert {pred}_i - {label}_i \vert^2 $$
+
+---
 ![linux](./favicon.ico)
