@@ -20,8 +20,8 @@ while True:
     for event in pygame.event.get():
         if  event.type == pygame.KEYDOWN:
             if event.key in keys:
-                pygame.mixer.music.load("raw/"+dic[event.key])
-                pygame.mixer.music.play()
+                k=pygame.mixer.Sound("raw\\"+dic[e])
+                k.play()
                 print(event.unicode,end='')
         elif  event.type == QUIT:
             exit()
